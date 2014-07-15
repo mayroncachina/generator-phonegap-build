@@ -1,6 +1,8 @@
-# generator-phonegap 
+# generator-phonegap-build
 
-Yeoman generator for an automated PhoneGap project and build. Uses [grunt-phonegap](https://npmjs.org/package/grunt-phonegap) to automate platform builds and performs basic optimization tasks relevant for phonegap projects. 
+Yeoman generator for an automated PhoneGap-Build project and build. Uses [grunt-phonegap](https://npmjs.org/package/grunt-phonegap) to automate platform builds and performs basic optimization tasks relevant for phonegap projects. 
+
+INCOMING!!!!
 
 ## Installation
 
